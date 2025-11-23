@@ -1,2 +1,2 @@
-# Excel-Data-Visualization
+# Excel-Interacative Retails Sales Dashboard
 Excel
